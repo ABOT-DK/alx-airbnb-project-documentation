@@ -1,3 +1,5 @@
+# USE CASE DIAGRAM
+
 ```mermaid
 %% Airbnb Clone - Use Case Diagram (Vertical Layout)
 
